@@ -1,4 +1,4 @@
 <apic>
 <definition>testproduct</definition>
 <API-NAME>acme-bank</API-NAME>
-</APIC>
+</apic>
