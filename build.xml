@@ -1,4 +1,4 @@
-<APIC>
-<Product-Name>testproduct.yaml</Product-Name>
-<API-NAME>acme-bank.yaml</API-NAME>
+<apic>
+<definition>testproduct</definition>
+<API-NAME>acme-bank</API-NAME>
 </APIC>
